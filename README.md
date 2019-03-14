@@ -1,2 +1,4 @@
 # HEVC-Machine-Learning-Encode
-Using OpenCV and WEKA to automatically encode HEVC by machine learning technique
+Encode HEVC(h.265) by machine learning technique
+Get data from HM source code. Then train data by statistic method and WEKA ML tool.
+changed algorithm at TEncCu.cpp line 731~786.
